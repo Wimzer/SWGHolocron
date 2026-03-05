@@ -1,0 +1,23 @@
+This repository contains everything needed to get the SWG Holocron up and running on your server. Below are the modifications, but before that is my soapbox that the developers understood there were SO MANY SYSTEMS in this game and that new players would be a bit confused starting out. 
+
+I have literally 0 experience for Entertainer, those are a little short. 
+
+11 Client Files: 
+**5 inside client-tools\src\game\client\library\swgClientUserInterface\src\shared\page**
+2 new: SwgCuiHolocron.h SwgCuiHolocron.cpp
+3 Modified: SwgCuiHudAction.cpp , SwgCuiHudWindowManager.cpp and .h
+__
+**2 inside client-tools\src\game\client\library\swgClientUserInterface\src\shared\core**
+2 modified: SwgCuiMediatorFactorySetup.cpp and .h
+__
+**1 inside client-tools\src\engine\client\library\clientGame\src\shared\command**
+1 modified: CommandCppFuncs.cpp
+__
+**3 inside client-tools\src\engine\client\library\clientUserInterface\src\shared\core**
+3 modified: CuiKnowledgeBaseManager.cpp and h, CuiActions.h
+
+2 Server File Modifications, skills.tab and command_table.tab
+
+Patch included, redone input maps and the needed datatables/string files. UI had a few modifications but it was mostly bringing back old stuff. 
+
+All input maps packaged in tre due to needing to be able to bind it. All files have a read me. 
