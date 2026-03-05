@@ -22,9 +22,9 @@ python main.py
 
 #cd to the directory
 #run the commands below
-python -m venv .venv
-.\.venv\Scripts\Activate.ps1
-pip install -r requirements.txt
+- python -m venv .venv
+- .\.venv\Scripts\Activate.ps1
+- pip install -r requirements.txt
 
 #Once that's done, run the main app
 python main.py
