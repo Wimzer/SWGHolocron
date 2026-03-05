@@ -26,4 +26,4 @@ __
 
 Patch included, redone input maps and the needed datatables/string files. UI had a few modifications but it was mostly bringing back old stuff. 
 
-All input maps packaged in tre due to needing to be able to bind it. All files have a read me. 
+All input maps packaged in tre due to needing to be able to bind it. All files have a read me. If you include images in the generator, they will not be positioned correctly. It positions behind the text and to the side. Will be updated eventually
