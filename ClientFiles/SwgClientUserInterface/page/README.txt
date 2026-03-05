@@ -1,1 +1,2 @@
 put in client-tools\src\game\client\library\swgClientUserInterface\src\shared\page
+ALSO Put the SwgCuiHolocron HEADER FILE at client-tools\src\game\client\library\swgClientUserInterface\include\public\swgClientUserInterface

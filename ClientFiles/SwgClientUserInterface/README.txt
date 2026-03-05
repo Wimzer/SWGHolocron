@@ -1,0 +1,1 @@
+Put new .vxproj in client-tools\src\game\client\library\swgClientUserInterface\build\win32
