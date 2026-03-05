@@ -1,4 +1,4 @@
-This repository contains everything needed to get the SWG Holocron up and running on your server. Below are the modifications, but before that is my soapbox that the developers understood there were SO MANY SYSTEMS in this game and that new players would be a bit confused starting out. 
+This repository contains everything needed to get the SWG Holocron up and running on your server. Below are the modifications, but before that is my soapbox that the developers understood there were SO MANY SYSTEMS in this game and that new players would be a bit confused starting out. A disservice being done to this game is locking knowledge behind third party sites. This was a thing in Live after NGE as well, but it did look like someone may have wanted to update it due to strings found in scripts like newbie_handoff.java. **IF YOU ARE IMPLEMENTING THIS IN A POPULATED SERVER, HIGHLY RECOMMEND WORKING NEWBIE_HANDOFF.JAVA INTO IT** That is because it triggers the opening, as well as a voice line that explains what it is. 
 
 I have literally 0 experience for Entertainer, those are a little short. 
 
