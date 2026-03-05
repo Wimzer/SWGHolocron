@@ -1,0 +1,1 @@
+put in client-tools\src\game\client\library\swgClientUserInterface\src\shared\page
