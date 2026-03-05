@@ -27,3 +27,8 @@ __
 Patch included, redone input maps and the needed datatables/string files. UI had a few modifications but it was mostly bringing back old stuff. 
 
 All input maps packaged in tre due to needing to be able to bind it. All files have a read me. If you include images in the generator, they will not be positioned correctly. It positions behind the text and to the side. Will be updated eventually
+
+
+
+
+UI_Help Exists in Patch_00.tre, as it was in the game from the beginning. There were not as many entries in knowledgebase, but they were there. This was updated steadily throughout the Pre-CU. From scripts that have survived (like newbie_handoff.java) that reference it, it does seem to have had some generated missions for players and was fairly in depth of giving an example, as it looked like it guided you around a bit first as well. 
