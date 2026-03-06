@@ -6,22 +6,22 @@ I have literally 0 experience for Entertainer, those are a little short.
 **5 inside client-tools\src\game\client\library\swgClientUserInterface\src\shared\page**
 #2 new: SwgCuiHolocron.h SwgCuiHolocron.cpp
 
-_3 Modified: SwgCuiHudAction.cpp , SwgCuiHudWindowManager.cpp and .h
+3 Modified: SwgCuiHudAction.cpp , SwgCuiHudWindowManager.cpp and .h
 
 
-__
+
 **2 inside client-tools\src\game\client\library\swgClientUserInterface\src\shared\core**
 
 2 modified: SwgCuiMediatorFactorySetup.cpp and .h
 
 
-__
+
 **1 inside client-tools\src\engine\client\library\clientGame\src\shared\command**
 
 1 modified: CommandCppFuncs.cpp
 
 
-__
+
 **3 inside client-tools\src\engine\client\library\clientUserInterface\src\shared\core**
 
 3 modified: CuiKnowledgeBaseManager.cpp and h, CuiActions.h
