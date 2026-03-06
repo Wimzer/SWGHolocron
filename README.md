@@ -3,6 +3,7 @@ This repository contains everything needed to get the SWG Holocron up and runnin
 I have literally 0 experience for Entertainer, those are a little short. 
 
 11 Client Files: 
+
 **5 inside client-tools\src\game\client\library\swgClientUserInterface\src\shared\page**
 
 2 new: SwgCuiHolocron.h SwgCuiHolocron.cpp
